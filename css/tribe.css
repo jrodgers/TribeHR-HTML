@@ -1,0 +1,116 @@
+.container_24 {
+	background:url("../img/24_col.gif") repeat-y scroll 0 0 #FFFFFF
+}
+
+
+ul.secondNav, ul.mainNav, .secondNav li, .mainNav li, #controlbar ul, #controlbar li {
+	margin:0;
+	padding:0;
+	display:inline;
+}
+ul.secondNav {
+	float: right;
+	font-size: 0.95em;
+}
+ul.mainNav {
+	font-size: 1.25em;
+}
+.secondNav li, .mainNav li {
+	padding: 5px;
+}
+ul.mainSubNav, .mainSubNav li {
+	margin: 0 0 0 5px;
+	padding:0;
+}
+.mainSubNav li {
+	display:inline;
+}
+#controlbar ul {
+	float:right;
+}
+#controlbar h1 {
+	margin: 0;
+	padding: 0;
+	font-size: 12px;
+	float: left;
+}
+h2.companyName {
+	margin:5px 0 5px 5px;
+}
+.grid_18 h2 {
+}
+
+/* call to actions actionItem*/
+
+.vacationItem, .messageItem, .applicantItem, .interviewItem, .dateItem, .contentItem, .contentActions {
+	display:block;
+}
+.actionItem {
+	display: block;
+	border-bottom: 1px solid #ccc;
+	padding: 5px 0;
+}
+.actionItem .contentActions a {
+	padding: 0 15px 0 0;
+}
+.actionItem ul, .actionItem li {
+	margin: 0;
+	padding:0;
+	display: block;
+}
+.actionItem h5{
+	
+}
+/* end call to actions */
+
+/* happeningSummary */
+h3 {
+	padding:0;
+	margin:10px 0 5px 0;
+}
+.happeningSummary h4 {
+	margin:0;
+	padding:3px;
+	background: #ccc;
+	font-size: 1em;
+	width: 100px;
+}
+.happeningItem {
+	height: 70px;
+	padding: 5px 0;
+}
+
+.staffItem .employee-name, .employee-status, .manager-action {
+	display: block;
+}
+.published {
+	display:block;
+	text-align: center;
+	float:left;
+	border-bottom:none;
+	margin: 3px;
+	padding: 4px;
+	width: 41px;
+	background: #ccc;
+}
+.pub-month {
+	display:block; 
+	font-size: .9em;
+	margin:0; 
+	padding:0;
+	background: #fff;
+}
+.pub-date { 
+	display:block; 
+	font-size:1.4em;
+	margin:0; 
+	padding:0;  
+}
+/* end happingSummary */
+/* right bar stuff */
+.searchBox {
+	margin: 15px 0;
+}
+.popular-activites ul, .popular-activites h4 {
+	margin: 0 10px;
+}
